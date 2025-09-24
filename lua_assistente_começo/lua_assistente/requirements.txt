@@ -1,0 +1,7 @@
+SpeechRecognition
+pyaudio
+gTTS
+pygame
+customtkinter
+openai>=1.0.0
+requests
