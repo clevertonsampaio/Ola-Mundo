@@ -12,3 +12,5 @@ print("Obrigado por usar este script!")
 s = 1 + 2
 print(s)
 print("A soma de 1 + 2 é:", s) 
+
+print('Olha lá')
